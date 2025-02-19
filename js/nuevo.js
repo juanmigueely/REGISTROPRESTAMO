@@ -5,6 +5,7 @@ let arrayStockMarca = [];
 let arrayStockCantidad = [];
 
 
+
 btnAgregarStock.addEventListener('click', () => {
 
     const stockNombre = document.getElementById("stockNombre");
